@@ -18,7 +18,4 @@ An edge AI wearable that detects cardiac arrhythmia in real time on ESP32-S3
 ## Tech Stack
 TFLite Micro · 1D CNN · ESP-IDF · Embedded C · Signal Processing
 
-## What makes it unique
-Invented `rr_dev_ctx`, a patient-personalised RR interval deviation 
-feature that became the top SHAP contributor — improving arrhythmia 
-detection over standard HRV features.
+
